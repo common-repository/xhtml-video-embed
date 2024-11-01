@@ -1,0 +1,1 @@
+XHTML Video Embed is replaced by XVE Various Embed: http://wordpress.org/extend/plugins/xve-various-embed/
